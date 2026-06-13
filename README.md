@@ -21,7 +21,7 @@ Engineering Results."*
 
 ### https://jazifv2.netlify.app/
 
-<img src=<img width="1920" height="1080" alt="Screenshot 2026-06-13 091951" src="https://github.com/user-attachments/assets/1e6dc62e-c64d-4d27-b86c-20f90864df2c" />
+<img width="1920" height="1080" alt="Screenshot 2026-06-13 091951" src="https://github.com/user-attachments/assets/1e6dc62e-c64d-4d27-b86c-20f90864df2c" />
 
 
 </div>
