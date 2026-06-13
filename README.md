@@ -166,15 +166,15 @@ Let's talk.
 
 ### LinkedIn
 
-YOUR_LINKEDIN
+(https://www.linkedin.com/in/muhammed-jasif-7b0152319/)
 
 ### GitHub
 
-YOUR_GITHUB
+(https://github.com/jazif00786)
 
 ### Instagram
 
-YOUR_INSTAGRAM
+jaz.lab
 
 ---
 
