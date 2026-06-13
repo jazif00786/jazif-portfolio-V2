@@ -2,92 +2,90 @@
 
 # MUHAMMED JASIF
 
-### Building interfaces that feel alive.
+### Creative Developer • UI/UX Designer • Digital Craftsman
 
 <br>
 
-```text
-Design is how it looks.
-Engineering is how it works.
-The interesting part is everything in between.
-```
+> *"Designing Experiences.
+Engineering Results."*
 
 <br>
 
-### ⟶ LIVE EXPERIENCE
-
-# (https://jazifv2.netlify.app/)
+[![Live Portfolio](https://img.shields.io/badge/LIVE-PORTFOLIO-ff1a1a?style=for-the-badge)](https://jazifv2.netlify.app/)
+[![Status](https://img.shields.io/badge/STATUS-ONLINE-black?style=for-the-badge)](https://jazifv2.netlify.app/)
+[![Built With](https://img.shields.io/badge/BUILT_WITH-VITE-red?style=for-the-badge)](https://vitejs.dev/)
 
 <br>
 
-<img src="YOUR_HERO_SCREENSHOT" width="100%">
+## ➜ EXPERIENCE THE PORTFOLIO
+
+### https://jazifv2.netlify.app/
+
+<img src=<img width="1920" height="1080" alt="Screenshot 2026-06-13 091951" src="https://github.com/user-attachments/assets/1e6dc62e-c64d-4d27-b86c-20f90864df2c" />
+" width="100%" alt="Portfolio Hero">
 
 </div>
 
 ---
 
-## Why this exists
+# Beyond a Portfolio
 
-Most portfolios tell you what someone knows.
+Most portfolios are collections of projects.
 
-This one demonstrates how they think.
+This one is a study in interaction, motion, atmosphere, and digital storytelling.
 
-Every interaction, transition, animation, and layout decision was built around a simple question:
+Every transition, animation, visual effect, and design decision was built around a single belief:
 
-> How do you make a website feel intentional?
+> Great interfaces are not remembered because they function.
 
-Not louder.
+> They are remembered because they make people feel something.
 
-Not busier.
-
-Not trendier.
-
-Intentional.
+This project explores the space between design and engineering—where pixels become experiences and interactions become narratives.
 
 ---
 
-## What you'll find inside
+# What You'll Experience
 
 ```diff
-+ Scroll-driven storytelling
-+ Cinematic image sequences
-+ Performance-aware rendering
-+ Interactive project showcases
-+ Adaptive mobile optimization
-+ Premium contact workflow
-+ Motion design with purpose
++ Cinematic Scroll Storytelling
++ Interactive Motion Design
++ Premium Transition Systems
++ Scroll-Controlled Sequences
++ Adaptive Performance Architecture
++ Mobile-First Optimization
++ Interactive Project Brief Workflow
++ Responsive Visual Systems
++ SEO & Deployment Optimization
 ```
 
 ---
 
-## Philosophy
+# Design Philosophy
 
-I don't enjoy building interfaces that simply function.
+The internet already has enough websites.
 
-I enjoy building interfaces that communicate.
+What it lacks are experiences.
 
-The gap between:
+This portfolio was built with restraint.
 
-```text
-usable
-```
+Not every element moves.
 
-and
+Not every interaction demands attention.
 
-```text
-memorable
-```
+Motion exists only when it serves purpose.
 
-is where most of my work happens.
+Visual effects exist only when they reinforce narrative.
+
+Every component is designed to feel intentional.
 
 ---
 
-## Stack
+# Technology Stack
 
 ```yaml
 Frontend:
-  - HTML
-  - CSS
+  - HTML5
+  - CSS3
   - JavaScript
 
 Motion:
@@ -97,92 +95,121 @@ Motion:
 
 Rendering:
   - WebGL
-  - Custom Effects
+  - Custom Visual Systems
 
 Build:
   - Vite
 
 Deployment:
   - Netlify
+
+Optimization:
+  - Lazy Loading
+  - Vendor Chunking
+  - Adaptive Performance Tiers
+  - Dynamic Viewport Units
 ```
 
 ---
 
-## Featured Projects
+# Featured Work
 
-### Smart Dustbin Management System
+## Smart Dustbin Management System
 
-A complete waste-management platform focused on monitoring, analytics, and operational visibility.
-
----
-
-### SOS & First Aid Application
-
-An emergency-response experience designed around speed, clarity, and accessibility.
+A complete waste-management ecosystem focused on monitoring, analytics, operational efficiency, and intelligent infrastructure management.
 
 ---
 
-### Portfolio V2
+## SOS & First Aid Application
 
-The project you're looking at right now.
-
-Built to explore how far motion, storytelling, and performance can coexist without compromising usability.
+An emergency-response platform designed around accessibility, speed, and life-critical user experiences.
 
 ---
 
-## Performance
+## Portfolio V2
 
-The visual layer is only half the project.
+A personal experiment in digital storytelling.
 
-Underneath:
+Built to explore how motion, atmosphere, performance, and interaction can coexist without sacrificing usability.
+
+---
+
+# Engineering Behind The Experience
+
+Beautiful interfaces are only half the challenge.
+
+The real challenge is maintaining performance while creating immersion.
+
+This project includes:
 
 ```diff
-+ Adaptive performance tiers
-+ Mobile-specific optimizations
-+ Lazy image loading
-+ Vendor chunk splitting
-+ Dynamic viewport fixes
-+ SEO optimization
-+ Linux deployment compatibility
++ Adaptive Rendering Strategies
++ Mobile-Aware Performance Scaling
++ Lazy Asset Loading
++ Deferred Image Decoding
++ Scroll Performance Optimization
++ Dynamic Viewport Fixes
++ SEO Optimization
++ Linux-Safe Deployment Structure
++ Netlify Production Hardening
 ```
 
-because beautiful websites that stutter are still broken.
+Because a beautiful experience that stutters is still a broken experience.
 
 ---
 
-## Contact
-
-If you're building something ambitious:
+# Project Structure
 
 ```text
-Product
-Platform
-Startup
-Tool
-Experience
+portfolio-v2
+│
+├── public
+│   ├── assets
+│   ├── images
+│   ├── shaders
+│   └── js
+│
+├── contact
+├── info
+├── works
+│
+├── index.html
+├── vite.config.js
+├── package.json
+└── README.md
 ```
 
-Let's talk.
+---
+
+# Connect
 
 ### LinkedIn
 
-(https://www.linkedin.com/in/muhammed-jasif-7b0152319/)
+https://www.linkedin.com/in/muhammed-jasif-7b0152319/
 
 ### GitHub
 
-(https://github.com/jazif00786)
+https://github.com/jazif00786
 
 ### Instagram
 
-jaz.lab
+https://www.instagram.com/jaz.lab_/
 
 ---
 
 <div align="center">
 
-```text
-The build ends.
-The learning doesn't.
-```
+## THE BUILD ENDS.
+
+## THE LEARNING DOESN'T.
+
+<br>
+
+*"Every project leaves something behind.
+Every iteration sharpens the next."*
+
+<br>
+
+### → https://jazifv2.netlify.app/
 
 </div>
